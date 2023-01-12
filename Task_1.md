@@ -15,4 +15,8 @@
 * *use asterisk to make text italic*
 * **use double asterisk to make text bold**
 * ***use triple asterisk to make text both italic and bold***
+* Use one or several # to mark hedings
+* Use > for blockquotes
+* Use dashes (-), asterisks (*), or plus signs (+) to create unordered lists
+
 
