@@ -10,3 +10,9 @@
 6. git diff  - shows changes to unstaged files
 7. git checkout <branch> - switches to a branch
 
+## Markdown means:
+
+* *use asterisk to make text italic*
+* **use double asterisk to make text bold**
+* ***use triple asterisk to make text both italic and bold***
+
