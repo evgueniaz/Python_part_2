@@ -16,6 +16,8 @@
 * **use double asterisk to make text bold**
 * ***use triple asterisk to make text both italic and bold***
 * use double underscores __to make text bold__
+* use double asterisk and an underscore **_to make text both italic and bold_**
+
 
 ## Markdown means for lists:
 
