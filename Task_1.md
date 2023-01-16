@@ -27,6 +27,9 @@
 
 ## Markdown means for images:
 
+To insert an image, type the following:
+![Beautiful microgeofagus ramirezi!](Ramirezi.jpg)
+
 ## Markdown means for tables:
 
 ## Markdown means for links:
