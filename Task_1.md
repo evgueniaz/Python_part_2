@@ -47,4 +47,10 @@ To insert an image, type the following:
 
 ## Markdown for quotes:
 
+To create a blockquote, add a > in front of a paragraph
+> for example, like this
+
+Or several > for another blockquote level
+>> for example, like here
+
 
