@@ -24,7 +24,6 @@
 ## Markdown means for lists:
 
 
-* Use > for blockquotes
 * Use dashes (-), asterisks (*), or plus signs (+) to create unordered lists, for example:
 > + element 1
 > + element 2
@@ -33,8 +32,6 @@
 * Use numbers for numbered lists, for example:
 > 1. element 1
 > 2. element 2
-
-
 
 
 
