@@ -17,13 +17,16 @@
 * ***use triple asterisk to make text both italic and bold***
 * use double underscores __to make text bold__
 * use double asterisk and an underscore **_to make text both italic and bold_**
+* Use one or several # to mark hedings
+
 
 
 ## Markdown means for lists:
 
-* Use one or several # to mark hedings
+
 * Use > for blockquotes
 * Use dashes (-), asterisks (*), or plus signs (+) to create unordered lists
+
 
 ## Markdown means for images:
 
